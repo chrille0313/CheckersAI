@@ -6,7 +6,7 @@ import jupyterlab
 
 # Pygame Properties
 CAPTION = "Checkers"
-WINDOW_SIZE = WINDOW_W, WINDOW_H = 400, 400
+WINDOW_SIZE = WINDOW_W, WINDOW_H = 600, 600
 FPS = 60
 
 # Colors
